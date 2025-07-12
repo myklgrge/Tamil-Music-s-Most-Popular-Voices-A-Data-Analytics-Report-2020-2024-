@@ -33,8 +33,6 @@ This project explores the **streaming trends of Tamil songs from 2020 to 2024**,
 │   ├── avg_popularity_by_gender.sql
 │   ├── top_song_each_year.sql
 │   └── high_pop_songs_by_gender.sql
-└── 📂 tableau/
-    └── dashboard_screenshots/
 ```
 
 ##  Tech Stack
